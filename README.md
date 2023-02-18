@@ -3,7 +3,7 @@
 This is a spatial transcriptomics project led by [Dr. Katharina Botterman](mailto:katharina.bottermann@hhu.de). It includes 10x Genomics Visium data of cardiac tissue 24 h after ischemia/reperfusion injury from adipocyte-specific (iAdipoQCre) hM4Di-DREADD expressing mice.
 
 ## Sequencing data
-Sequencing data, including fastq files and spacranger outputs will be available upon publication.
+Sequencing data, including fastq files and spaceranger outputs can be found at ArrayExpress accession E-MTAB-12735, a public link will be available upon publication or request.
 
 ## Instructions
 
